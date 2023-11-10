@@ -7,7 +7,7 @@ after you have made the file run
 ./bin/cuBitCrack -c 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so --keyspace 20000000000000000:3FFFFFFFFFFFFFFFF -r 
 
 
-
+```
 :~/BitCrack/new/BitCrack# ./bin/cuBitCrack -c 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so --keyspace 30000000000000000:3FFFFFFFFFFFFFFFF -r
 [2023-11-10.18:41:41] [Info] Compression: compressed
 [2023-11-10.18:41:41] [Info] Starting at: 0000000000000000000000000000000000000000000000030000000000000000
@@ -31,8 +31,8 @@ after you have made the file run
 [2023-11-10.18:42:25] [Info] 100.0%
 [2023-11-10.18:42:25] [Info] Done
 NVIDIA GeForce R 12677 / 24217MB | 1 target 3526.25 MKey/s (61,209,592,201,216 total) [04:49:10]
+```
 
-Puzzle #66
 
 
 # Previous fork
