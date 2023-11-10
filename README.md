@@ -1,3 +1,14 @@
+# BitCrackRandom using New Generation Graphics CARD
+I ALSO HAVE ZEROOO idea of what im doing but i wanted a BitCrack with a random feature so i saw this Fork but didnt work so i made changes until it worked (i use LINUX Ubuntu)
+
+after you have made the file run
+
+./bin/cuBitCrack -c 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so --keyspace 20000000000000000:3FFFFFFFFFFFFFFFF -r 
+
+Puzzle #66
+
+
+# Previous fork
 I have absolutely no idea what I'm doing. The edits to this repo are for CUDA only. Borrowing from various other tweaks found in the mass of forks for BitCrack. No clue if they'll even work or not. . . Let's find out! - DL
 
 Contains tweaks from the following forks: ByLamacq, Radrigo, frstrtr (not implemented in .exe; you'll have to rename main_alt to main and compile), L0laapk3, and any others that have made apparent improvements to the original by brichard19. All of you are wizards and I bow to your superior abilities!
