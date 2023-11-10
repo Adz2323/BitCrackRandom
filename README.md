@@ -1,9 +1,34 @@
 # BitCrackRandom using New Generation Graphics CARD
 I ALSO HAVE ZEROOO idea of what im doing but i wanted a BitCrack with a random feature so i saw this Fork but didnt work so i made changes until it worked (i use LINUX Ubuntu)
 
+Puzzle #66
 after you have made the file run
 
 ./bin/cuBitCrack -c 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so --keyspace 20000000000000000:3FFFFFFFFFFFFFFFF -r 
+
+:~/BitCrack/new/BitCrack# ./bin/cuBitCrack -c 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so --keyspace 30000000000000000:3FFFFFFFFFFFFFFFF -r
+[2023-11-10.18:41:41] [Info] Compression: compressed
+[2023-11-10.18:41:41] [Info] Starting at: 0000000000000000000000000000000000000000000000030000000000000000
+[2023-11-10.18:41:41] [Info] Ending at:   000000000000000000000000000000000000000000000003FFFFFFFFFFFFFFFF
+[2023-11-10.18:41:41] [Info] Counting by: 0000000000000000000000000000000000000000000000000000000000000001
+[2023-11-10.18:41:41] [Info] Generating random starting points
+[2023-11-10.18:41:41] [Info] Initializing NVIDIA GeForce RTX 4090
+[2023-11-10.18:41:41] [Info] Generating 134,217,728 starting points (5120.0MB)
+[2023-11-10.18:41:41] [Info] Starting point sample: 000000000000000000000000000000000000000000000003D909120FE6B4D0FA (66 bit range)
+[2023-11-10.18:41:41] [Info] Starting point sample: 00000000000000000000000000000000000000000000000391534306231962A3 (66 bit range)
+[2023-11-10.18:41:41] [Info] Starting point sample: 00000000000000000000000000000000000000000000000340C24672AC4CCBF0 (66 bit range)
+[2023-11-10.18:42:21] [Info] 10.0%
+[2023-11-10.18:42:23] [Info] 20.0%
+[2023-11-10.18:42:23] [Info] 30.0%
+[2023-11-10.18:42:24] [Info] 40.0%
+[2023-11-10.18:42:24] [Info] 50.0%
+[2023-11-10.18:42:24] [Info] 60.0%
+[2023-11-10.18:42:24] [Info] 70.0%
+[2023-11-10.18:42:25] [Info] 80.0%
+[2023-11-10.18:42:25] [Info] 90.0%
+[2023-11-10.18:42:25] [Info] 100.0%
+[2023-11-10.18:42:25] [Info] Done
+NVIDIA GeForce R 12677 / 24217MB | 1 target 3526.25 MKey/s (61,209,592,201,216 total) [04:49:10]
 
 Puzzle #66
 
