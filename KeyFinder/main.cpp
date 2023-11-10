@@ -620,11 +620,6 @@ int main(int argc, char **argv)
 			return 1;
 		}
 	}
-	
-        if (optContinue && _config.randomMode) {
-        Logger::log(LogLevel::Error, "Random and continue mode cannot be used together.");
-        return 1;	
-        }
 
     if(listDevices) {
         printDeviceList(_devices);
